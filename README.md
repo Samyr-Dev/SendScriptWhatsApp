@@ -1,23 +1,41 @@
 # SendScriptWhatsApp
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp através do console do navegador.
+
+## Tecnologias
+
+* JavaScript
 
 ## Utilização
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+1. Abra o [WhatsApp Web](https://web.whatsapp.com) e faça login na sua conta.
+2. Abra a conversa para a qual deseja enviar o script e mantenha a caixa de texto selecionada.
+3. Abra o **DevTools** (Ferramentas do Desenvolvedor) utilizando um dos atalhos: `Ctrl + Shift + J`, `Ctrl + Shift + I` ou `F12`.
+4. No topo da aba que se abriu, clique em **Console**.
+5. Escolha um dos scripts abaixo:
+   * [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+   * [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+6. Copie todo o conteúdo do arquivo (clique em **Raw** -> `Ctrl + A` -> `Ctrl + C`).
+7. No console do WhatsApp Web, cole o código.
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+> [!IMPORTANT]
+> Em atualizações recentes do Google Chrome, pode ser impedido que scripts sejam colados no Console. Para contornar isso, digite `allow pasting` no console e aperte Enter antes de colar o script.
 
-No WhatsApp Web abra o console do Browser
+8. Após colar o script, aperte **Enter** para iniciar a execução.
 
-|  ⚠️ Aviso importante, numa atualização recente do Google Chrome, está sendo impedido que qualquer script seja colado no Console.|
-|--|
-|  ***Para contornar esse problema, o console do desenvolvedor espera receber um confirmação textual escrevendo no console: "allow pasting"***| 
-|Após isso será permitido colar e continuar a execução do script|
+## Atenção
 
+Esta ação é **irreversível**. Uma vez iniciado, o script enviará todas as linhas do roteiro automaticamente.
 
-Cole o código no console e aperte Enter
+## Contribuidores
 
-Pronto
+* [Matt-Fontes](https://github.com/Matt-Fontes) (Criador)
+* [P0sseid0n](https://github.com/P0sseid0n)
+* [Alphka](https://github.com/Alphka)
+* [Bulani](https://github.com/Bulani)
+* [WillFelisberto](https://github.com/WillFelisberto)
+* [silvan-batistella](https://github.com/silvan-batistella)
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyrtertuliano)
